@@ -1,4 +1,4 @@
-Practica de proyecto backend con nojejd, sequelize & mysql
+Practica de proyecto backend con nodejs, sequelize & mysql
 
 env vars 
 NODE_ENV=development
